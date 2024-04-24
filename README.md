@@ -6,7 +6,7 @@ Bem-vindo ao repositório da Aplicação de Login e Cadastro de Usuários da Man
 
 A Aplicação de Login e Cadastro de Usuários é uma plataforma simples e funcional para registro e autenticação de usuários. Com interfaces claras e intuitivas, o objetivo é proporcionar uma experiência de usuário fluida e eficiente.
 
-![7fccb4c6-dc9b-47d6-b74d-c3fb97a0f4b4-ezgif com-optimize](https://github.com/Vaconer/UserSignUpLogin/assets/106969683/d2e16f2e-7df1-4a93-9d66-19b0a8f88cf1)
+![e56f64c2-9d8c-47ea-902f-c7a96abeb54a-ezgif com-optimize](https://github.com/Vaconer/SistemaLoginRegistro/assets/106969683/826fbbdb-61cf-4542-a04c-db83012e301a)
 
 ### Funcionalidades
 
